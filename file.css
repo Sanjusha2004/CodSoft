@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+    background-color:seashell;
+}
+nav ul li{
+    display: inline;
+}
+nav ul li a{
+    text-decoration:none;
+    padding:15px;
+    color:darkslategrey;
+}
+header{
+    background-color:thistle ;
+    padding: 20px;
+}
+header h1{
+    color:black;
+}
+#Home img{
+    border-radius: 50%;
+    height:180px;
+    width:180x;
+}
+#Home p{
+    word-spacing: 10px;
+}
+#Portfolio{
+    
+    padding: 10px;
+}
+#Portfolio img {
+    border-radius: 20%;
+    height: 200px;
+    width: 200px;
+}
+#Skills ul li{
+    display:inline;
+    padding:10px;
+}
+footer{
+    background-color: wheat;
+    padding:20px;
+}
+footer{
+    color:black;
+}
+footer{
+    text-align: center;
+}
